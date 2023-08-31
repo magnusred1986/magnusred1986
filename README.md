@@ -3,8 +3,6 @@
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-
 <!--
 **magnusred1986/magnusred1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
