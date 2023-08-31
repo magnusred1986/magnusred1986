@@ -3,4 +3,3 @@
 
 [![codewars](https://www.codewars.com/users/Sergey_Krutko/badges/micro)](https://www.codewars.com/users/Sergey_Krutko)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
