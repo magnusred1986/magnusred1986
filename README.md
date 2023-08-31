@@ -1,6 +1,7 @@
 ### Hi there 👋I'm Sergey
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=040D12&lines=I+am+beginner+developer)](https://git.io/typing-svg)
 
+#### My browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
