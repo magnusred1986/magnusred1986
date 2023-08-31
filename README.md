@@ -1,5 +1,7 @@
 ### Hi there 👋I'm Sergey
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=040D12&lines=I+am+beginner+developer)](https://git.io/typing-svg)
+
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 <!--
 **magnusred1986/magnusred1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
