@@ -1,7 +1,8 @@
 ### Hi there 👋I'm Sergey  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+beginner+developer)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/Sergey_Krutko/badges/micro)](https://www.codewars.com/users/Sergey_Krutko)**[Stepik](https://stepik.org/users/134975621)**
+[![codewars](https://www.codewars.com/users/Sergey_Krutko/badges/micro)](https://www.codewars.com/users/Sergey_Krutko)  
+**[Stepik](https://stepik.org/users/134975621)**
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -19,4 +20,3 @@
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnusred1986&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-**[Stepik](https://stepik.org/users/134975621)**
