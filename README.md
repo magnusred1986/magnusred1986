@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+amateur+developer)](https://git.io/typing-svg)
 
 [![codewars](https://www.codewars.com/users/Sergey_Krutko/badges/micro)](https://www.codewars.com/users/Sergey_Krutko)  
-**[STEPIK.ORG](https://stepik.org/users/134975621)**  
-** <a href=http://www.sql-ex.ru/users_page.php?uid=713467><img src=http://www.sql-ex.ru/images/rate_btn/image.php?id=713467&ban=1 alt='SQL Exercises Rank'></a>**  
+**[STEPIK.ORG](https://stepik.org/users/134975621)**
 **Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 **IDEs/Editors**  
